@@ -7,7 +7,7 @@ Une PME fictive a son siège à Lyon et une agence à Grenoble. Le siège compte
 - [x] Étape 1 : concevoir la topologie et le plan d'adressage ([détails](docs/01-conception.md))
 - [x] Étape 2 : poser les équipements et les câbler
 - [x] Étape 3 : créer les VLAN et configurer les switchs
-- [ ] Étape 4 : faire communiquer les VLAN entre eux
+- [x] Étape 4 : faire communiquer les VLAN entre eux
 - [ ] Étape 5 : relier le siège et l'agence et configurer le routage
 - [ ] Étape 6 : configurer le DHCP
 - [ ] Étape 7 : tester la connectivité entre les deux sites
