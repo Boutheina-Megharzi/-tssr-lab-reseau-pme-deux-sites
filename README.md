@@ -3,7 +3,7 @@
 Réseau d'une PME fictive sous Cisco Packet Tracer : un siège, une agence, des VLAN par service, du routage entre les sites et du DHCP.
 
 ## Avancement
-- [ ] Étape 1 : concevoir la topologie et le plan d'adressage
+- [x] Étape 1 : concevoir la topologie et le plan d'adressage ([détails](docs/01-conception.md))
 - [ ] Étape 2 : poser les équipements et les câbler
 - [ ] Étape 3 : créer les VLAN et configurer les switchs
 - [ ] Étape 4 : faire communiquer les VLAN entre eux
