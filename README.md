@@ -1,6 +1,7 @@
 # tssr-lab-reseau-pme-deux-sites
 
-Réseau d'une PME fictive sous Cisco Packet Tracer : un siège, une agence, des VLAN par service, du routage entre les sites et du DHCP.
+## Contexte (scénario fictif)
+Une PME fictive a son siège à Lyon et une agence à Grenoble. Le siège compte trois services (Direction, Comptabilité, Informatique), séparés par des VLAN, et l'agence est reliée au siège par du routage.
 
 ## Avancement
 - [x] Étape 1 : concevoir la topologie et le plan d'adressage ([détails](docs/01-conception.md))
